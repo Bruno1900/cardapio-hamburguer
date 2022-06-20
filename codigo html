@@ -1,0 +1,96 @@
+<! DOCTYPE html>
+<html>
+<cabeça>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="estilo.css">
+<docu<mento>documento>
+</cabeça>
+<corpo>
+<header class="header-wrepper">
+    <div class="header">
+ <div class="checkbox-container" >
+            <div class="checkbox-wrepper">
+ <input type="checkbox" id="alternar">
+ <label class="checkbox" para="alternar">
+                    <div class="trace"></div>
+                    <div class="trace"></div>
+                    <div class="trace"></div>
+
+                </etiqueta>
+                <div class="menu"></div>
+                <nav class="menu-intems">
+                    <Ul>
+                        <li>
+                            <a href="#">Home</a>
+
+                        </li>
+                        <li>
+                            <a href="#">Sobre</a>
+                        </li>
+                        <li>
+                            <a href="#">Projetos</a>
+
+                        </li>
+                    </Ul>
+                </Nav>
+            </Div>
+
+        </Div>
+
+    </Div>
+    <h1>Bruno Silva</h1>
+    <h2>Aprendiz fullstack</h2>
+    <div class="social-media">
+        <a href="#">linkedin</a>
+        <a href="#">Github</a>
+
+    </Div>
+</cabeçalho>
+<main class="container">
+    <div class="card-container">
+        <div class="card-text">
+ hambuguer arsenal com (queijo cheddar, tomate, alface e cebola crocante)
+        </Div>
+        <div class="card">
+            <div class="card-wrapper">
+                <h2>Github</h2>
+                <p>veja meus Projetos</p>
+
+            </Div>
+
+        </Div>
+
+    </Div>
+    <div class="card-container">
+
+        <div class="card">
+            <div class="card-wrapper">
+ <h2>ligação</h2>
+ <p>Companhe minha carreira! </p>
+
+            </Div>
+
+        </Div>
+        <div class="card-text">
+            hambuguer tradicional com (carne 250g, alface, tomate, requeijão, salsicha e mussarela)
+            </Div>
+     </Div>
+    <div class="card-container">
+        <div class="card-text">
+        hambuguer nato (3 carne de 400g)
+        </Div>
+        <div class="card">
+            <div class="card-wrapper">
+                <h2>Instagram</h2>
+ <p>Ou mais do meu dia-a-dia; </p>
+
+            </Div>
+
+        </Div>
+
+    </Div>
+
+</principal>
+</corpo>
+</html> 
